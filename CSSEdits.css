@@ -1,0 +1,68 @@
+/*
+
+CSS Edits on the Chalets and Caviar website 
+
+------------------
+by:Chloe Litrico
+
+*/
+.align-holder.center h1.hero-title {
+	font-family: Snell Roundhand;
+	font-size: 6rem;
+}
+.button.color1 {
+	background-color:#7db4e4;
+	border-color: #7db4e4;
+}
+a.button:hover{
+	background-color:#2ebcfc;
+	border-color:#2ebcfc;
+}
+.button.blue {
+	background-color: #7db4e4;
+	border-color: #7db4e4;
+}
+.about-1.content-section {
+	background-color: #1f272e !important;
+}
+
+.about-1.content-section h2, .lead {
+	color:#d9e5f0 !important;
+}
+
+.content-2.content-section {
+	background-color: #1f272e !important;
+}
+.content-2.content-section h5, h2 {
+	color: #d9e5f0 !important;
+}
+
+.footer-content{
+	background-color: #1f272e !important;
+}
+
+label {
+	color:#d9e5f0;
+}
+
+.es-label{
+	color:#d9e5f0;
+}
+
+.es-price {
+	color:#d9e5f0 !important;
+}
+
+.es-property-inner{
+	border-color:#686c71 !important;
+	border-width:0.2rem !important;
+}
+
+.es-dropdown-hide{
+	border-color:#686c71 !important;
+	border-width:0.2rem !important;
+}
+
+.es-cat-price .es-price, .es-price-note{
+	color: #1f272e !important;
+}
